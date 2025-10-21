@@ -111,6 +111,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 <h2 align="left" id="stocktaking-stack">🦦 Уникальные функции</h2>
